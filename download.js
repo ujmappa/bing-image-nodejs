@@ -3,7 +3,7 @@ import axios from 'axios';
 import stream from 'stream';
 import {promisify} from 'util';
 
-import fs from 'fs';
+import fs from 'node:fs';
 
 
 const finished = promisify(stream.finished);
