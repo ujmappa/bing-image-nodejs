@@ -1,8 +1,8 @@
 # Bing ImageCreator generate script
-Usage of reverse engineered API written in NodeJS. See the original [NodeJS module](https://github.com/nociza/Bimg)
+Usage of reverse engineered API written in NodeJS. See the original [Python module](https://github.com/acheong08/BingImageCreator) I got the idea from.
 
 - Install NodeJS modules with `npm install`
-- Add authentication token to .env variable
+- Add authentication token to application.env
 - Enter your prompts in prompts.txt divided by new line. 
 
 If you have enjoyed my work and wish to support what I do, please consider buying me a coffee! I would appreciate it very much and it helps me to continue to do what I do. Thank you! 
